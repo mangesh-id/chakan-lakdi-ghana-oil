@@ -1,0 +1,405 @@
+@media only screen and (min-width:768px) and (max-width:992px) {
+    .first {
+        padding: 6px 15px;
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+
+    .first .col-md-4.col-6.text-md-end.text-start {
+        padding-right: 5px;
+    }
+
+    .second .media {
+        padding-top: 10px;
+        padding-left: 75px;
+    }
+
+    .second .logo img {
+        padding-left: 25px;
+    }
+
+
+    .third .navbar .navbar-brand {
+        margin: 0px 0px 0px 26px;
+    }
+
+    .third .wishlist {
+        display: none;
+    }
+
+    .third button.navbar-toggler {
+        position: relative;
+        left: auto;
+        margin-left: 545px;
+    }
+
+    .fourth .caption {
+        bottom: 4.25rem;
+    }
+
+    .fourth button.carousel-control-prev.prev-next-btn,
+    .fourth button.carousel-control-next.prev-next-btn {
+        font-size: 11px;
+    }
+
+    .fifth .carousel-caption {
+        width: 92%;
+    }
+
+    .fifth button.owl-prev.disabled,
+    .fifth button.owl-next.disabled {
+        font-size: 11px !important;
+    }
+
+    .six .row {
+        margin: 0px 15px 0px 15px;
+    }
+
+    .six .row2 {
+
+        background-size: contain;
+        width: 225px;
+    }
+
+    .six .six-row-1 .row1-1,
+    .six .six-row-2 .row1-2,
+    .six .six-row-3 .row1-3 {
+        padding-right: 0px;
+        width: 160px;
+    }
+
+    .six .row p,
+    .six .row h4 {
+        padding-left: 15px;
+    }
+
+    .six button {
+        margin-left: 15px;
+    }
+
+    .seven .top-rated.d-flex {
+        margin-left: 25px;
+    }
+
+    .seven .owl-carousel .owl-item {
+        height: 540px;
+    }
+
+    .seven .cart-btn {
+        display: block;
+    }
+
+    .eight .row {
+        margin: 0px 15px 0px 15px;
+    }
+
+    .nine .back {
+        height: 25vh;
+        padding: 71px 0px 0px 20px;
+    }
+
+    .ele .owl-coro1 {
+        margin: 20px 15px 0px 15px;
+    }
+
+    .footer .margin {
+        margin: 25px 15px 0px 15px;
+    }
+
+    .footer .margin .social-rating {
+        border-bottom: 1px solid rgb(197 190 190 / 60%);
+    }
+
+}
+
+@media only screen and (max-width: 575px) {
+
+    .first {
+        font-size: 9px;
+        padding: 0px;
+        margin-right: 0px;
+    }
+
+    .first .col-md-4.col-6.text-md-start.text-start {
+        padding-left: 15px;
+    }
+
+    .first .col-md-4.col-6.text-md-end.text-start {
+        padding-left: 15px;
+    }
+
+
+    .first .fa-map-marker:before {
+        content: "\f041";
+        margin-right: 8px;
+    }
+
+    .second .search {
+        display: none;
+    }
+
+    .second .logo img {
+        width: 175px;
+        height: 55px;
+        padding: 0px;
+    }
+
+    .second .media {
+        padding-top: 11px;
+        padding-left: 58px;
+    }
+
+    .second .logo img {
+        margin-left: 15px;
+    }
+
+    .third .navbar .navbar-brand {
+        margin: 0px 15px;
+    }
+
+    .third button.navbar-toggler {
+        margin-left: 100px;
+    }
+
+    .third .wishlist {
+        display: none;
+    }
+
+    .fourth button.carousel-control-prev.prev-next-btn,
+    .fourth button.carousel-control-next.prev-next-btn {
+        display: none;
+    }
+
+    .six .row {
+        margin: 0px 15px 0px 15px;
+    }
+
+    .six .row2 {
+        background-size: contain;
+        width: 225px;
+    }
+
+    .six .six-row-1 .row1-1,
+    .six .six-row-2 .row1-2,
+    .six .six-row-3 .row1-3 {
+        padding-right: 0px;
+        width: 130px;
+    }
+
+    .six .row p,
+    .six .row h4 {
+        padding-left: 15px;
+    }
+
+    .six button {
+        margin-left: 15px;
+    }
+
+    .six .row p {
+        padding-top: 15px;
+    }
+
+
+    .seven .container {
+        margin-top: 20px;
+    }
+
+    .seven .owl-prev {
+        top: -43px;
+        right: 145px;
+    }
+
+    .seven .owl-next {
+        right: 95px;
+        top: -43px;
+    }
+
+    .seven .top-rated.d-flex {
+        margin-left: 0px;
+        flex-direction: column;
+    }
+
+    .seven .top-rated.h4-heading {
+        text-align: left;
+        margin-left: 15px;
+    }
+
+    .seven .top-rated.d-flex {
+        margin-left: 25px;
+    }
+
+    .seven .owl-carousel .owl-item {
+        height: 446px;
+    }
+
+    /* .seven .cart-btn {
+        display: block;
+    } */
+
+    .eight .row {
+        margin: 0px 15px 0px 15px;
+    }
+
+    .nine .back {
+        background-size: cover;
+        height: 25vh;
+        width: 100%;
+        margin-top: 30px;
+        padding: 12px 0px 0px 15px;
+    }
+
+    .nine .back h5 {
+        font-size: 12px;
+    }
+
+    .nine .back p {
+        font-size: 9px;
+    }
+
+    .nine .back button {
+        background-color: #fff;
+        border-radius: 0%;
+        border: 1px solid #76a413;
+        color: #76a413;
+        width: 5rem;
+        height: 21px;
+        font-size: 9px;
+    }
+
+    /* .ten .owl-stage{
+        transition: all 0.25s ease 0s;
+        width: 1190px;
+        padding-left: 80px;
+        padding-right: 80px;
+        transform: translate3d(-468px, 0px, 0px);
+    } */
+
+    .footer .margin .social-rating .cards img {
+        width: 156px;
+    }
+
+    .footer .margin .footer-links .location {
+        margin: 4px 0px 0px 0px;
+    }
+
+    .footer .margin .footer-links .insta .mail-icon {
+        margin-top: 10px;
+    }
+
+    .footer .margin .footer-links {
+        margin-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    .footer .margin {
+        margin: 25px 15px 0px 15px;
+    }
+
+
+
+
+}
+
+@media only screen and (min-width:576px) and (max-width:767px) {
+    .first {
+        padding: 6px 15px;
+    }
+
+    .second .media {
+        padding-left: 30px;
+    }
+
+    .second .logo img {
+        width: 158px;
+        height: 55px;
+        padding-left: 15px;
+    }
+
+    .second .search {
+        padding-left: 2px;
+        padding-right: 0px;
+    }
+
+    .third .navbar .navbar-brand {
+        margin: 0px 0px 0px 15px;
+    }
+
+    .third button.navbar-toggler {
+        margin-left: 400px;
+    }
+
+    .third .wishlist {
+        display: none;
+    }
+
+    .fourth .caption {
+        bottom: 1.25rem;
+        left: 3%;
+
+    }
+
+    .fifth .carousel-caption {
+        margin-left: 15px;
+        margin-bottom: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .six .row {
+        margin: 0px 125px 0px 125px;
+    }
+
+    .six .row2 {
+
+        background-size: contain;
+        width: 225px;
+    }
+
+    .six .six-row-1 .row1-1,
+    .six .six-row-2 .row1-2,
+    .six .six-row-3 .row1-3 {
+        padding-right: 0px;
+        width: 160px;
+    }
+
+    .six .row p,
+    .six .row h4 {
+        padding-left: 15px;
+    }
+
+    .six button {
+        margin-left: 15px;
+    }
+
+    .seven .top-rated.d-flex {
+        margin-left: 15px;
+    }
+    .seven .owl-prev {
+        right: -20px;
+    }
+
+    .seven .owl-next {
+        right: -60px;
+    }
+
+    .eight .row {
+        margin: 50px 10px 0px 10px;
+    }
+
+    .nine .back {
+        margin-top: 30px;
+        padding: 15px 0px 0px 15px;
+    }
+
+    .footer .margin {
+        margin: 25px 15px 0px 15px;
+    }
+    .footer .margin .footer-links .insta .mail-icon {
+        margin-top: 5px;
+    }
+    .footer .margin .footer-links .location {
+        margin: 5px 0px 0px 0px;
+    }
+
+
+}
