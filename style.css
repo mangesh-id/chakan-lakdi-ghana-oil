@@ -87,7 +87,7 @@
     overflow-y: scroll;
 }
 
-.third .navbar .dropdown:hover>.dropdown-menu {
+.third .navbar .navbar-brand:hover>.dropdown-menu {
     display: block;
 }
 
